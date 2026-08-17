@@ -9,12 +9,15 @@ faculdade. Estou em busca de um estagio para ganhar experiência na área.
 
 # Contato
 <p align='left'
-<a href= 'https://www.linkedin.com/in/victor-daniel-091216357/'>
+<a href='https://www.linkedin.com/in/victor-daniel-091216357/' target='_blank'>
  <img 
  alt='linkedin'
  title='linkedin'
  width = '30px'
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
+ />
+ </a>
+ </p>
 
  ##
  
