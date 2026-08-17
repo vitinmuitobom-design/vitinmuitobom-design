@@ -2,9 +2,9 @@
 
 **'Estudante de engenharia de software'**
 
-Me chamo Victor Daniel, tenho 18 anos , sou estudante de engenharia de software no Centro Universatario Udf Brasilia , estou no 2 semestre da faculdade. Estou em busco de um estagio para ganhar experiência na área 
+Me chamo Victor Daniel, tenho 18 anos , sou estudante de engenharia de software no Centro Universatario Udf Brasilia , estou no 2 semestre da faculdade. Estou em busca de um estagio para ganhar experiência na área.
 
-#Linguagens e tecnlogias 
+#Linguagens e tecnologias 
 
 <img 
     align='left'
