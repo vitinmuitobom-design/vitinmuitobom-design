@@ -9,7 +9,7 @@ Me chamo Victor Daniel, tenho 18 anos, sou estudante de Engenharia de Software n
 ## Contato
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/victor-daniel-091216357/](https://www.linkedin.com/in/victor-daniel-04195742a/?isSelfProfile=true)" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/victor-daniel-04195742a/" target="_blank" rel="noopener noreferrer">
     <img 
       alt="LinkedIn"
       title="LinkedIn"
