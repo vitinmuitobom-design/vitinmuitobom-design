@@ -2,14 +2,14 @@
 
 **Estudante de Engenharia de Software**
 
-Me chamo Victor Daniel, tenho 18 anos, sou estudante de Engenharia de Software no **Centro Universitário UDF Brasília**, estou no 2º semestre. Estou em busca de um estágio para ganhar experiência na área.
+Me chamo Victor Daniel, tenho 18 anos, sou estudante de Engenharia de Software no **Centro Universitário UDF Brasília**, estou no 2 semestre. Estou em busca de um estágio para ganhar experiência na área.
 
 ---
 
 ## Contato
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/victor-daniel-091216357/" target="_blank" rel="noopener noreferrer">
+  <a href="[https://www.linkedin.com/in/victor-daniel-091216357/](https://www.linkedin.com/in/victor-daniel-04195742a/?isSelfProfile=true)" target="_blank" rel="noopener noreferrer">
     <img 
       alt="LinkedIn"
       title="LinkedIn"
