@@ -41,6 +41,24 @@ Me chamo Victor Daniel, tenho 18 anos, sou estudante de Engenharia de Software n
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
   />
+  <img
+    align="left"
+    alt="CSS"
+    title="CSS"
+    width="30"
+    style="padding-right: 10px;"
+    scr="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    />
+  <img
+    align='leaft'
+    alt='JS'
+    title='JS'
+    width='30'
+    style='padding-right: 10px;'
+    scr="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+    />
+      
+    
 </p>
 
-<a href = 'https://vitinmuitobom-design.github.io/1-portfolio/' target="_blank"> 
+
