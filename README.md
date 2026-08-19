@@ -42,3 +42,5 @@ Me chamo Victor Daniel, tenho 18 anos, sou estudante de Engenharia de Software n
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
   />
 </p>
+
+<p><a href = 'https://vitinmuitobom-design.github.io/1-portfolio/' target="_blank"> </p>
