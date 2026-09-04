@@ -6,12 +6,12 @@ Me chamo Victor Daniel, tenho 18 anos, sou estudante de Engenharia de Software n
 
 ## Sobre mim
 
-<p>🎓 Engenharia de Software — UDF | Brasília
-📚 2º semestre
-🐍 Conhecimentos em Python , HTML , CSS 
-💻 Estudando C  E JS
-🎨 Conhecimentos em Figma
-🤖 Conhecimentos em Engenharia de Prompts</p>
+<p> 🎓 Engenharia de Software — UDF | Brasília</p>
+<p> 📚 2º semestre</p>
+<p> 🐍 Conhecimentos em Python , HTML , CSS </p>
+<p> 💻 Estudando C  E JS</p>
+<p> 🎨 Conhecimentos em Figma</p>
+<p> 🤖 Conhecimentos em Engenharia de Prompts</p>
 
 ## Conhecimentos
 
