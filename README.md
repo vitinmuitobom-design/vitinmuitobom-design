@@ -97,8 +97,7 @@ Quero melhorar para desenvolver sites maiores, sites de vendas etc.
 <li> 📚 Fortalecer meus fundamentos de programação</li>
 <li> 💻 Desenvolver projetos próprios</li>
 <li> 🚀 Construir um portfólio sólido durante a graduação</li>
-<li></li>
-<li></li>
+
 
 
  
