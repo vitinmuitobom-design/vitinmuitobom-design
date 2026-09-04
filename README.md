@@ -61,8 +61,6 @@ Me chamo Victor Daniel, tenho 18 anos, sou estudante de Engenharia de Software n
 
 <h3>Desenvolvimento Web</h3>
 
-<p> Gosto de desenvolver sites , ate o momento tenho so ladding page postado aqui no github [evadecoeventos](evadecoeventos) , quero melhorar para desenvolver site maiores , site de vendas e etc.</p>
-
 <p align="left">
   <img 
     align="left"
@@ -74,6 +72,7 @@ Me chamo Victor Daniel, tenho 18 anos, sou estudante de Engenharia de Software n
   />
 
 
+<p> Gosto de desenvolver sites , ate o momento tenho so ladding page postado aqui no github [evadecoeventos](evadecoeventos) , quero melhorar para desenvolver site maiores , site de vendas e etc.</p>
 
 
  
