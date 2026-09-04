@@ -88,6 +88,10 @@ Quero melhorar para desenvolver sites maiores, sites de vendas etc.
 
 🔗 [Acessar repositório acadêmico](https://github.com/vitinmuitobom-design/academico)
 
+<h3> Projetos pessoais ate o momento</h3>
+
+<p> <a href="https://github.com/vitinmuitobom-design/evadecoeventos">evadecoeventos</a></p>
+
 ## Objetivos
 
 <li> 📚 Fortalecer meus fundamentos de programação</li>
