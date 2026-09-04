@@ -76,6 +76,7 @@ Quero melhorar para desenvolver sites maiores, sites de vendas etc.
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
   />
+   <br clear="both">
 
   ## Projetos
 
