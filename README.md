@@ -17,6 +17,14 @@ Me chamo Victor Daniel, tenho 18 anos, sou estudante de Engenharia de Software n
 
 <p> 💻 Programação </p>
 
+<img 
+    align="left"
+    alt="JS"
+    title="JS"
+    width="30"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
 
 
   <img 
@@ -36,7 +44,7 @@ Me chamo Victor Daniel, tenho 18 anos, sou estudante de Engenharia de Software n
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
-## EM APRENDIZADO
+
    <img 
     align="left"
     alt="C"
@@ -45,14 +53,7 @@ Me chamo Victor Daniel, tenho 18 anos, sou estudante de Engenharia de Software n
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
     
-    <img 
-    align="left"
-    alt="JS"
-    title="JS"
-    width="30"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
+    
 
 
 
