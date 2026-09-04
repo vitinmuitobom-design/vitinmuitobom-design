@@ -61,7 +61,7 @@ Me chamo Victor Daniel, tenho 18 anos, sou estudante de Engenharia de Software n
 
 <h3>Desenvolvimento Web</h3>
 
-Gosto de desenvolver sites, até o momento tenho só landing pages postadas aqui no GitHub 
+Gosto de desenvolver sites, até o momento tenho só tenho uma landing page postada aqui no GitHub 
 <a href="https://github.com/vitinmuitobom-design/evadecoeventos">evadecoeventos</a>.
 Quero melhorar para desenvolver sites maiores, sites de vendas etc.
 </p>
