@@ -6,12 +6,12 @@ Me chamo Victor Daniel, tenho 18 anos, sou estudante de Engenharia de Software n
 
 ## Sobre mim
 
-<p> 🎓 Engenharia de Software — UDF | Brasília</p>
-<p> 📚 2º semestre</p>
-<p> 🐍 Conhecimentos em Python , HTML , CSS </p>
-<p> 💻 Estudando C  E JS</p>
-<p> 🎨 Conhecimentos em Figma e miro</p>
-<p> 🤖 Conhecimentos em Engenharia de Prompts</p>
+<li> 🎓 Engenharia de Software — UDF | Brasília</li>
+<li> 📚 2º semestre</li>
+<li> 🐍 Conhecimentos em Python , HTML , CSS </li>
+<li> 💻 Estudando C  E JS</li>
+<li> 🎨 Conhecimentos em Figma e miro</li>
+<li> 🤖 Conhecimentos em Engenharia de Prompts</li>
 
 ## Conhecimentos
 
@@ -86,11 +86,11 @@ Quero melhorar para desenvolver sites maiores, sites de vendas etc.
 
 ## Objetivos
 
-<li>Fortalecer meus fundamentos de programação</li>
-<li>Desenvolver projetos próprios</li>
-<li>Construir um portfólio sólido durante a graduação</li>
-<li>Fortalecer meus fundamentos de programação</li>
-<li>Fortalecer meus fundamentos de programação</li>
+<li> 📚 Fortalecer meus fundamentos de programação</li>
+<li> 💻 Desenvolver projetos próprios</li>
+<li> 🚀 Construir um portfólio sólido durante a graduação</li>
+<li></li>
+<li></li>
 
 
  
