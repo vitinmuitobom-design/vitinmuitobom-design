@@ -80,7 +80,7 @@ Quero melhorar para desenvolver sites maiores, sites de vendas etc.
 
   ## 📂 Projetos
 
-  <p>Este perfil reúne meus projetos acadêmicos, exercícios e projetos pessoais desenvolvidos durante minha formação.Através deles, busco colocar meus conhecimentos em prática e acompanhar minha evolução na área de desenvolvimento de software.
+  <p>Este perfil reúne meus projetos acadêmicos, exercícios e projetos pessoais desenvolvidos durante minha formação. Através deles, busco colocar meus conhecimentos em prática e acompanhar minha evolução na área de desenvolvimento de software.
 
 </p>
 
