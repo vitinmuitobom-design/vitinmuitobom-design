@@ -51,7 +51,7 @@ Me chamo Victor Daniel, tenho 18 anos, sou estudante de Engenharia de Software n
     title="C"
     width="30"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg](https://icons8.com.br/icon/40670/c-programming)" />
     
     
 
