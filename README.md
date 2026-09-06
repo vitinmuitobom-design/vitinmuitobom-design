@@ -78,6 +78,11 @@ Quero melhorar para desenvolver sites maiores, sites de vendas etc.
   />
    <br clear="both">
 
+   
+## Banco de daodos
+
+<li> 💻 SQL , MYSQL (Estudando)</li>
+
   ## 📂 Projetos
 
   <p>Este perfil reúne meus projetos acadêmicos, exercícios e projetos pessoais desenvolvidos durante minha formação. Através deles, busco colocar meus conhecimentos em prática e acompanhar minha evolução na área de desenvolvimento de software.
@@ -99,9 +104,6 @@ Quero melhorar para desenvolver sites maiores, sites de vendas etc.
 <li> 🚀 Construir um portfólio sólido durante a graduação</li>
 
 
-## Banco de daodos
-
-<li> 💻 SQL , MYSQL (Estudando)</li>
 
 
 
