@@ -99,6 +99,11 @@ Quero melhorar para desenvolver sites maiores, sites de vendas etc.
 <li> 🚀 Construir um portfólio sólido durante a graduação</li>
 
 
+## Banco de daodos
+
+<li> 💻 SQL , MYSQL (Estudando)</li>
+
+
 
  
     
