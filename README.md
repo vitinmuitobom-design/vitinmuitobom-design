@@ -103,6 +103,15 @@ Quero melhorar para desenvolver sites maiores, sites de vendas etc.
 <li> 💻 Desenvolver projetos próprios</li>
 <li> 🚀 Construir um portfólio sólido durante a graduação</li>
 
+## 🎓 Formação
+
+**Engenharia de Software**  
+**UDF — Centro Universitário do Distrito Federal**
+
+📍 Brasília, DF  
+📅 Início: 2026  📅 FIM: 2029
+📚 2º semestre
+
 
 
 
