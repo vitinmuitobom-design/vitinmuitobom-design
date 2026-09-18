@@ -108,9 +108,9 @@ Quero melhorar para desenvolver sites maiores, sites de vendas etc.
 **Engenharia de Software**  
 **UDF — Centro Universitário do Distrito Federal**
 
-📍 Brasília, DF  
-📅 Início: 2026  📅 FIM: 2029
-📚 2º semestre
+<li>📍 Brasília, DF  </li>
+<li>📅 Início: 2026  📅 FIM: 2029  </li>
+<li>📚 2º semestre  </li>
 
 
 
