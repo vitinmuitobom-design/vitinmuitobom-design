@@ -79,7 +79,7 @@ Quero melhorar para desenvolver sites maiores, sites de vendas etc.
    <br clear="both">
 
    
-## Banco de daodos
+## Banco de dados
 
 <li> 💻 SQL , MYSQL (Estudando)</li>
 
