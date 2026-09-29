@@ -116,7 +116,7 @@ Quero melhorar para desenvolver sites maiores, sites de vendas etc.
 ## Contato
 
 <p align="left">
-    <a href = "https://github.com/vitinmuitobom-design "  target = "_blank">
+    <a href = "https://github.com/vitinmuitobom-design ">
   <img 
     align="left"
     alt="GITHUB"
@@ -127,7 +127,7 @@ Quero melhorar para desenvolver sites maiores, sites de vendas etc.
   />
     </a>
   <p align="left">
-      <a href = "https://www.linkedin.com/in/victor-daniel-04195742a?utm_source=share_via&utm_content=profile&utm_medium=member_android "  target = "_blank">
+      <a href = "https://www.linkedin.com/in/victor-daniel-04195742a?utm_source=share_via&utm_content=profile&utm_medium=member_android ">
   <img 
     align="left"
     alt="LINKEDIN"
