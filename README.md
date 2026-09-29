@@ -115,7 +115,11 @@ Quero melhorar para desenvolver sites maiores, sites de vendas etc.
 
 ## Contato
 
-<p> <a href = "https://github.com/vitinmuitobom-design "> </a> </p>
+
+<p> <a href = "https://github.com/vitinmuitobom-design "> </a> Github </p
+                                                                          
+<p> <a href = "https://github.com/vitinmuitobom-design "> </a> Linkedin </p>
+
 
 
 
