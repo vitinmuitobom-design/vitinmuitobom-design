@@ -122,7 +122,7 @@ Quero melhorar para desenvolver sites maiores, sites de vendas etc.
     title="GITHUB"
     width="30"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
   />
   <p align="left">
   <img 
