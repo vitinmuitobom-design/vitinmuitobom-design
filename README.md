@@ -115,10 +115,29 @@ Quero melhorar para desenvolver sites maiores, sites de vendas etc.
 
 ## Contato
 
+<p align="left">
+  <img 
+    align="left"
+    alt="HTML"
+    title="HTML"
+    width="30"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
+  />
+  <p align="left">
+  <img 
+    align="left"
+    alt="HTML"
+    title="HTML"
+    width="30"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
+  />
+  <br clear="both">
 
-<p> <a href = "https://github.com/vitinmuitobom-design "> </a> Github </p
-                                                                          
-<p> <a href = "https://github.com/vitinmuitobom-design "> </a> Linkedin </p>
+  
+
+
 
 
 
