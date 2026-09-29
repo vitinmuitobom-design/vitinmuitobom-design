@@ -127,7 +127,7 @@ Quero melhorar para desenvolver sites maiores, sites de vendas etc.
   />
 </a>
   <p align="left">
-  <a href = " "  target = "_blank">
+  <a href = "https://www.linkedin.com/in/victor-daniel-04195742a?utm_source=share_via&utm_content=profile&utm_medium=member_android "  target = "_blank">
   <img 
     align="left"
     alt="LINKEDIN"
