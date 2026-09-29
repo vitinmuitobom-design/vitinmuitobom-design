@@ -116,6 +116,7 @@ Quero melhorar para desenvolver sites maiores, sites de vendas etc.
 ## Contato
 
 <p align="left">
+<a href = " "  target = "_blank">
   <img 
     align="left"
     alt="GITHUB"
@@ -124,7 +125,9 @@ Quero melhorar para desenvolver sites maiores, sites de vendas etc.
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
   />
+</a>
   <p align="left">
+  <a href = " "  target = "_blank">
   <img 
     align="left"
     alt="LINKEDIN"
@@ -133,6 +136,7 @@ Quero melhorar para desenvolver sites maiores, sites de vendas etc.
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
   />
+  </a>
   <br clear="both">
 
   
