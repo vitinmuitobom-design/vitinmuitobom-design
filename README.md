@@ -118,20 +118,20 @@ Quero melhorar para desenvolver sites maiores, sites de vendas etc.
 <p align="left">
   <img 
     align="left"
-    alt="HTML"
-    title="HTML"
+    alt="GITHUB"
+    title="GITHUB"
     width="30"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
+    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg)" 
   />
   <p align="left">
   <img 
     align="left"
-    alt="HTML"
-    title="HTML"
+    alt="LINKEDIN"
+    title="LINKEDIN"
     width="30"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
   />
   <br clear="both">
 
